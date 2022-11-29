@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janetunde
-- 🌱 I’m currently learning ... finite element modeling of medical implants and soft tissues
+- 🌱 I’m currently learning ... finite element modeling of cellular materials
 - 📫 How to reach me ... jane.kelleher@epfl.ch
 
 <!---
